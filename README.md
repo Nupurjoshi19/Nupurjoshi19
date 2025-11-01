@@ -9,8 +9,8 @@
 - 🌱 Always curious, always improving!
 
 ## Tech I'm Learning
-- Languages: Python, HTML, CSS, JavaScript
-- Libraries & Frameworks: Pandas, NumPy, BeautifulSoup, Flask
+- Languages: Python, HTML, CSS, C++
+- Libraries & Frameworks: Pandas, NumPy, BeautifulSoup, Django
 - Databases: SQL
 - Tools: Git, GitHub, VS Code
 
