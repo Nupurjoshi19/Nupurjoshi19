@@ -40,8 +40,8 @@
 
 ### 📊 GitHub Stats
 
-![Nupur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nupurjoshi19&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nupurjoshi19&layout=compact&theme=radical&hide_border=true)
+![Nupur's GitHub stats](https://github-stats-extended.vercel.app/api?username=Nupurjoshi19&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Nupurjoshi19&layout=compact&theme=radical&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nupurjoshi19&theme=radical&hide_border=true)
 
 ### Let's Connect!
