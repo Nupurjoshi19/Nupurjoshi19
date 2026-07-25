@@ -1,16 +1,19 @@
 ```text
-                                    OS: ............ Windows
-    ⠀⠀⠀⠀⢀⣠⣴⣶⣶⣶⣦⣄⡀⠀⠀⠀            Uptime: ......... 3rd Year, B.Tech AI (2024-2028)
-    ⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀            Kernel: ......... Gandhinagar Institute of Technology
-    ⠀⠀⣼⣿⣿⠟⠋⠉⠉⠙⠻⣿⣿⣿⣆⠀            Shell: .......... Python 3.x
-    ⠀⢰⣿⣿⠃⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿⡄            Editor: ......... VS Code
-    ⠀⣾⣿⡇⠀⢀⣴⣾⣿⣷⣦⡀⠀⢸⣿⣿⡇          
-    ⠀⣿⣿⡇⠀⢸⣿⣿⣿⣿⣿⣿⠀⠀⣿⣿⣿          Languages: ...... Python, C, HTML, CSS
-    ⠀⢿⣿⣧⠀⠈⠛⠿⣿⿟⠛⠁⠀⣼⣿⡿           Libraries: ...... NumPy, Pandas, Scikit-learn,
-    ⠀⠸⣿⣿⣆⠀⠀⠀⠀⠀⠀⣠⣿⣿⡿⠀           Streamlit, OpenCV, MediaPipe,
-    ⠀⠀⠻⣿⣿⣷⣦⣤⣤⣶⣿⣿⣿⠟⠀⠀           BeautifulSoup, Plotly
-    ⠀⠀⠀⠈⠛⠿⣿⣿⣿⣿⡿⠟⠉⠀⠀⠀           Databases: ...... SQL
-    ⠀⠀⠀⠀⠀⠀⠀⠉⠉⠀⠀⠀⠀⠀⠀⠀           Tools: .......... Git, GitHub, Flask, Joblib
+    ╭──────────────────────────╮      OS: ............ Windows
+    │  ┌────┐  ┌────┐  ┌────┐  │      Uptime: ......... 3rd Year, B.Tech AI
+    │  │ ▓▓ │  │ ▓▓ │  │ ▓▓ │  │      Kernel: ......... GIT, Gandhinagar
+    │  └────┘  └────┘  └────┘  │      Shell: .......... Python 3.x
+    │  ┌──────────────────────┐│      Editor: ......... VS Code
+    │  │      N E U R A L     ││
+    │  │        N E T         ││      Languages: ...... Python, C, HTML, CSS
+    │  └──────────────────────┘│      Libraries: ...... NumPy, Pandas,
+    │  ┌────┐  ┌────┐  ┌────┐  │        Scikit-learn, Streamlit, OpenCV,
+    │  │ ▓▓ │  │ ▓▓ │  │ ▓▓ │  │        MediaPipe, BeautifulSoup, Plotly
+    │  └────┘  └────┘  └────┘  │      Databases: ...... SQL
+    ╰──────────┬───────┬───────╯      Tools: .......... Git, GitHub, Flask,
+          ┌────┴───────┴────┐           Joblib
+          │  N U P U R  J.  │
+          └─────────────────┘
 
     Currently: ...... AI Engineer Intern @ MirAI School of Technology
     Contributing: ... GirlScript Summer of Code 2026 (GSSoC'26)
